@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDoAppp</string>
+    <string name="enter_you_email">Enter you email</string>
+    <string name="enter_you_password">Enter you password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="forgot_password">Forgot password</string>
+
+</resources>
